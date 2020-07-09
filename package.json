@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://pixter.com.br/wp-content/uploads/2018/06/logo-black.png)](http://pixter.com.br)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/pixtertecnologia/backend.git"
+  },
+  "keywords": [],
+  "author": "Glauber Brack",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/pixtertecnologia/backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
