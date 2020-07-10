@@ -65,3 +65,20 @@ https://maps.googleapis.com/maps/api/place/search/json?location=-23.5655625,-46.
 - [Express](https://www.typescriptlang.org/)
 - [Nodemon](https://nodemon.io/)
 
+## :notebook: Running
+
+### Requeriments
+
+```bash
+# Clone this
+$ git clone https://github.com/glauberbrack/find-by-coordinates
+
+# Go to your project folder
+$ cd find-by-coordinates
+
+# Install all depencies
+$ npm install
+
+# Run your project
+$ npm start
+```
